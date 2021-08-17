@@ -6,7 +6,7 @@ opc = ' '
 while True:
     n = int(input(f'Digite um número entre 0 e 20: '))
     if 0 <= n <= 20:
-            break
+        break
     print('Tente novamente!', end='')
 print(f'Você digitou o número {contagem[n]}')
 
