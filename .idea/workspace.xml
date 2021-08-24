@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c96c3d5-0090-45c7-80b1-41aa98a8e439" name="ExerciciosPython" comment="ExerciciosPython">
-      <change afterPath="$PROJECT_DIR$/exe074.py" afterDir="false" />
+    <list default="true" id="1c96c3d5-0090-45c7-80b1-41aa98a8e439" name="ExerciciosPython" comment="Números sortedos pelo computador. Maior e menor valor sortedos.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe074.py" beforeDir="false" afterPath="$PROJECT_DIR$/exe074.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunManager" selected="Python.exe074">
     <configuration name="aula 016tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -203,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629193479143</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Números sortedos pelo computador. Maior e menor valor sortedos.">
+      <created>1629280759562</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1629280759562</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +236,7 @@
     <MESSAGE value=" Exercícios Mundo 1 do curso de python" />
     <MESSAGE value="Primeiros exercícios em python" />
     <MESSAGE value="ExerciciosPython" />
-    <option name="LAST_COMMIT_MESSAGE" value="ExerciciosPython" />
+    <MESSAGE value="Números sortedos pelo computador. Maior e menor valor sortedos." />
+    <option name="LAST_COMMIT_MESSAGE" value="Números sortedos pelo computador. Maior e menor valor sortedos." />
   </component>
 </project>
