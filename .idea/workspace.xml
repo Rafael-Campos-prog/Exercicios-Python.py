@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c96c3d5-0090-45c7-80b1-41aa98a8e439" name="ExerciciosPython" comment="Lista de preços em tupla exibido de forma tabular.">
+    <list default="true" id="1c96c3d5-0090-45c7-80b1-41aa98a8e439" name="ExerciciosPython" comment="Contando vogais em Tupla">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe076.py" beforeDir="false" afterPath="$PROJECT_DIR$/exe076.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe077.py" beforeDir="false" afterPath="$PROJECT_DIR$/exe077.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +41,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunManager" selected="Python.exe077">
-    <configuration name="exe073" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.aula 17 listas">
+    <configuration name="aula 17 listas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExeMundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe073.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Usuário\PycharmProjects\PythonExeMundo2\aula 17 listas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula 17 listas" />
         <item itemvalue="Python.exe077" />
         <item itemvalue="Python.exe076" />
         <item itemvalue="Python.exe075" />
         <item itemvalue="Python.exe074" />
-        <item itemvalue="Python.exe073" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +246,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629970011320</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Contando vogais em Tupla">
+      <created>1630402585298</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1630402585298</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Contando vogais em Tupla">
+      <created>1630402752770</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1630402752770</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,6 +290,7 @@
     <MESSAGE value="Intervalo das respoatas com sleep." />
     <MESSAGE value="Program que lê quatro números pelo teclado e guarda em uma tupla." />
     <MESSAGE value="Lista de preços em tupla exibido de forma tabular." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lista de preços em tupla exibido de forma tabular." />
+    <MESSAGE value="Contando vogais em Tupla" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contando vogais em Tupla" />
   </component>
 </project>
