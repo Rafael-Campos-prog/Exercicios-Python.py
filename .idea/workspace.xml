@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c96c3d5-0090-45c7-80b1-41aa98a8e439" name="ExerciciosPython" comment="Contando vogais em Tupla">
+    <list default="true" id="1c96c3d5-0090-45c7-80b1-41aa98a8e439" name="ExerciciosPython" comment="Programa que lê 5 valores numéricos e guarda em uma lista e mostra qual foi o menor e o maior valor digitado e em que posições estão.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe077.py" beforeDir="false" afterPath="$PROJECT_DIR$/exe077.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 17 listas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula17listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula17listas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +42,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunManager" selected="Python.aula 17 listas">
-    <configuration name="aula 17 listas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exe079">
+    <configuration name="exe046" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExeMundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Usuário\PycharmProjects\PythonExeMundo2\aula 17 listas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe046.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe074" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exe078" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExeMundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe074.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe078.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe075" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exe079" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExeMundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe075.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe079.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe076" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExeMundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe076.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe077" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rep78" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExeMundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe077.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rep78.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.aula 17 listas" />
-        <item itemvalue="Python.exe077" />
-        <item itemvalue="Python.exe076" />
-        <item itemvalue="Python.exe075" />
-        <item itemvalue="Python.exe074" />
+        <item itemvalue="Python.exe079" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.rep78" />
+        <item itemvalue="Python.exe078" />
+        <item itemvalue="Python.exe046" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +261,42 @@
       <option name="project" value="LOCAL" />
       <updated>1630402752770</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Introdução a listas.">
+      <created>1631059614988</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1631059614988</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Introdução a listas.">
+      <created>1631059805658</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1631059805658</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Introdução a listas.">
+      <created>1631060159740</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1631060159740</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Introdução a listas.">
+      <created>1631359715432</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1631359715432</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Programa que lê 5 valores numéricos e guarda em uma lista e mostra qual foi o menor e o maior valor digitado e em que posições estão.">
+      <created>1632182725955</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1632182725955</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,6 +327,8 @@
     <MESSAGE value="Program que lê quatro números pelo teclado e guarda em uma tupla." />
     <MESSAGE value="Lista de preços em tupla exibido de forma tabular." />
     <MESSAGE value="Contando vogais em Tupla" />
-    <option name="LAST_COMMIT_MESSAGE" value="Contando vogais em Tupla" />
+    <MESSAGE value="Introdução a listas." />
+    <MESSAGE value="Programa que lê 5 valores numéricos e guarda em uma lista e mostra qual foi o menor e o maior valor digitado e em que posições estão." />
+    <option name="LAST_COMMIT_MESSAGE" value="Programa que lê 5 valores numéricos e guarda em uma lista e mostra qual foi o menor e o maior valor digitado e em que posições estão." />
   </component>
 </project>
