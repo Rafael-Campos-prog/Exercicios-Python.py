@@ -17,7 +17,14 @@ while True:
     if resp in'Nn':
         break
 print('><-' * 30)
-print(f'Os dados foram {princ}')
 print(f'Ao todo você cadastrou {len(princ)} pessoas.')
-print(f'O maior peso foi de {mai}Kg.')
-print(f'O menor peso foi de {men}kg.')
+print(f'O maior peso foi de {mai}Kg. Peso de ', end='')
+for p in princ:
+    if p[1] == mai:
+        print(f'{p[0]}')
+print()
+print(f'O menor peso foi de {men}kg. Peso de ', end='')
+for p in princ:
+    if p[1] == men:
+        print(f'{p[0]}')
+print()
