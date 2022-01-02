@@ -17,6 +17,7 @@ while True:
     if resp in'Nn':
         break
 print('><-' * 30)
+print()
 print(f'Ao todo você cadastrou {len(princ)} pessoas.')
 print(f'O maior peso foi de {mai}Kg. Peso de ', end='')
 for p in princ:
